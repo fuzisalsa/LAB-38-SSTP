@@ -1,5 +1,7 @@
 # LAB-38-SSTP
 Tanggal 20 agustus 2025
+# SSTP (Secure Socket Tunneling Protocol),
+
 
 # konfigurasi SSTP client 
 1. masuk ke winbox
@@ -31,3 +33,5 @@ Tanggal 20 agustus 2025
 ![M](z6.PNG)
 
 # kesimpulan 
+
+SSTP adalah protokol VPN yang menggunakan enkripsi SSL/TLS (port 443) untuk membuat koneksi aman antara client dan server.
