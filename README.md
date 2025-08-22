@@ -20,27 +20,29 @@ Tanggal 20 agustus 2025
 
 ![M](z3.PNG)
 
-8. kita mendapatkan ip address secara otomatis dari office A dan intercae baru     
-   lihat di menu ip > address
+8. kita mendapatkan ip address secara otomatis dari office A dan intercae baru        
+   lihat di menu ip > address   
+
 ![M](z4.PNG)
 
-9. lalu kita buat route di     
-   ip > routes
+9. lalu kita buat route di        
+   ip > routes  
+
 ![M](z5.PNG)
 
-10. setelah itu kita coba ping ke office  A di terminal 
+10. setelah itu kita coba ping ke office  A di terminal    
 
 ![M](z6.PNG)
 
 # konfigurasi SSTP client certificate
-1. pertama kita harus masukkan certificate yang telah di buat oleh server
+1. pertama kita harus masukkan certificate yang telah di buat oleh server  
 2. buka menu system > certificates > di tab **certificates** pilih menu import lalu masukkan certificate tadi yang file **crt** dan  **key**
 
 ![m](z8.PNG)
 
 ![m](z7.PNG)
 
-3. ubah nama nya klo sekiranya terlalu panjang klik 2kli bagian nama 
+3. ubah nama nya klo sekiranya terlalu panjang klik 2kli bagian nama    
 
 ![m](z9.PNG)
 
