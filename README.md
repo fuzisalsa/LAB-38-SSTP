@@ -20,15 +20,15 @@ Tanggal 20 agustus 2025
 
 ![M](z3.PNG)
 
-8. kita mendapatkan ip address secara otomatis dari office A dan intercae baru 
-
+8. kita mendapatkan ip address secara otomatis dari office A dan intercae baru     
+   lihat di menu ip > address
 ![M](z4.PNG)
 
-9. kita buat route 
-
+9. lalu kita buat route di     
+   ip > routes
 ![M](z5.PNG)
 
-10. lalu kita coba ping ke office  A
+10. setelah itu kita coba ping ke office  A di terminal 
 
 ![M](z6.PNG)
 
