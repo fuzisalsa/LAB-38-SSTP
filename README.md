@@ -32,6 +32,21 @@ Tanggal 20 agustus 2025
 
 ![M](z6.PNG)
 
-# kesimpulan 
+# konfigurasi SSTP client certificate
+1. pertama kita harus masukkan certificate yang telah di buat oleh server
+2. buka menu system > certificates > di tab **certificates** pilih menu import lalu masukkan certificate tadi yang file **crt** dan  **key**
 
+![m](z8.PNG)
+
+![m](z7.PNG)
+
+3. ubah nama nya klo sekiranya terlalu panjang klik 2kli bagian nama 
+
+![m](z9.PNG)
+
+4. lalu buka lagi menu ppp > interface buka **sstp-pusat** lalu di bagian **dial out** masukkan sertificate client tadi di bagian **certificate** lalu jangan lupa centang juga lalu klik **ok** 
+
+![m](z10.PNG)
+
+# kesimpulan 
 SSTP adalah protokol VPN yang menggunakan enkripsi SSL/TLS (port 443) untuk membuat koneksi aman antara client dan server.
